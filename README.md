@@ -30,6 +30,6 @@ I'm a software developer passionate about Python, FastAPI, and Open Source.
 
 ### 🔗 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/EmxrWasHere0)](https://linkedin.com/in/EmxrWasHere0)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/EmxrWasHere0)](https://twitter.com/EmxrWasHere0)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/EmxrWasHere0)](https://linkedin.com/in/emir-burak-öztürk-875318319)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/EmxrWasHere0)](https://twitter.com/emxrwashere)  
 
