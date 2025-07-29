@@ -1,6 +1,6 @@
 # Hi there, I'm Emir! 👋
 
-I'm a software developer passionate about Python, FastAPI, and Open Source.
+I'm a software developer passionate about Python, C languages and NimLang.
 
 ### 🛠️ Technologies  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
