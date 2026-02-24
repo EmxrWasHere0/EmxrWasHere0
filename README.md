@@ -4,8 +4,8 @@ I'm a software developer passionate about Python, C languages and NimLang.
 
 ### 🛠️ Technologies  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-C/C++-009688?style=flat&logo=cplusplus&logoColor=white)  
+![Docker](https://img.shields.io/badge/-TypeScript-2496ED?style=flat&logo=typescript&logoColor=white)  
 
 ---
 
