@@ -6,7 +6,7 @@ I'm a software developer passionate about Python, C languages and TypeScript.
 I also do Network Engineering and Cyber Security stuff.
 
 ### 🛠️ Languages and Tools  
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=00CDE1)  ![FastAPI](https://img.shields.io/badge/-C/C++-black?style=flat&logo=cplusplus&logoColor=CE51EE)  ![Docker](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=0000FF)  ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-black?style=flat&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  ![FastAPI](https://img.shields.io/badge/-C/C++-black?style=flat&logo=cplusplus)  ![Docker](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)  ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-black?style=flat&logo=cisco)  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat)
 
 ---
 
