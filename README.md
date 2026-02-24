@@ -6,7 +6,7 @@ I'm a software developer passionate about Python, C languages and TypeScript.
 I also do Network Engineering and Cyber Security stuff.
 
 ### 🛠️ Languages and Tools  
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  ![C/C++](https://img.shields.io/badge/-C/C++-black?style=flat&logo=cplusplus)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)  ![Nim](https://img.shields.io/badge/-Nim-black?style=flat&logo=nim)  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)  ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-black?style=flat&logo=cisco)  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat)  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat&logo=kalilinux)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  ![C/C++](https://img.shields.io/badge/-C/C++-black?style=flat&logo=cplusplus)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)  ![Nim](https://img.shields.io/badge/-Nim-black?style=flat&logo=nim)  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)  ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-black?style=flat&logo=cisco)  ![VSCodium](https://img.shields.io/badge/-VSCodium-black?style=flat&logo=vscodium)  ![NeoVim](https://img.shields.io/badge/-NeoVim-black?style=flat&logo=neovim)  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat&logo=kalilinux)  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-black?style=flat&logo=virtualbox)  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=nodedotjs)
 
 ---
 
@@ -31,6 +31,5 @@ I also do Network Engineering and Cyber Security stuff.
 
 ### 🔗 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/EmxrWasHere0)](https://linkedin.com/in/emir-burak-öztürk-875318319)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/EmxrWasHere0)](https://x.com/emirviyuviyu)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/EmxrWasHere0)](https://linkedin.com/in/emir-burak-öztürk-875318319)  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logoColor=white&link=https://x.com/emirviyuviyu)](https://x.com/emirviyuviyu)  [![Instagram](https://img.shields.io/badge/-Instagram-8080FF?style=flat&link=https://instagram.com/emxr.dev)](https://instagram.com/emxr.dev)
 
