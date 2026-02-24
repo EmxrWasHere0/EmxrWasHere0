@@ -6,7 +6,7 @@ I'm a software developer passionate about Python, C languages and TypeScript.
 I also do Network Engineering and Cyber Security stuff.
 
 ### 🛠️ Languages and Tools  
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  ![C/C++](https://img.shields.io/badge/-C/C++-black?style=flat&logo=cplusplus)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)  ![Nim](https://img.shields.io/badge/-Nim-black?style=flat&logo=nim)  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)  ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-black?style=flat&logo=cisco)  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  ![C/C++](https://img.shields.io/badge/-C/C++-black?style=flat&logo=cplusplus)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)  ![Nim](https://img.shields.io/badge/-Nim-black?style=flat&logo=nim)  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)  ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-black?style=flat&logo=cisco)  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat)  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat&logo=kalilinux)
 
 ---
 
