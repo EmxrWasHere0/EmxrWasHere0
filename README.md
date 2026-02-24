@@ -1,11 +1,13 @@
 # Hi there, I'm Emir! 👋
 
-I'm a software developer passionate about Python, C languages and NimLang.
+I'm a software developer passionate about Python, C languages and TypeScript.
+I also do Network Engineering and Cyber Security stuff.
 
 ### 🛠️ Technologies  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/-C/C++-009688?style=flat&logo=cplusplus&logoColor=white)  
-![Docker](https://img.shields.io/badge/-TypeScript-2496ED?style=flat&logo=typescript&logoColor=white)  
+![Docker](https://img.shields.io/badge/-TypeScript-B6D145?style=flat&logo=cisco&logoColor=white)  
+![Cisco PT] (https://img.shields.io/badge/-Cisco%20Packet%20Tracer-)
 
 ---
 
@@ -31,5 +33,5 @@ I'm a software developer passionate about Python, C languages and NimLang.
 ### 🔗 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/EmxrWasHere0)](https://linkedin.com/in/emir-burak-öztürk-875318319)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/EmxrWasHere0)](https://twitter.com/emxrwashere)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/EmxrWasHere0)](https://x.com/emirviyuviyu)  
 
