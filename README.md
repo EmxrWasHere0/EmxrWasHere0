@@ -7,7 +7,7 @@ I also do Network Engineering and Cyber Security stuff.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/-C/C++-009688?style=flat&logo=cplusplus&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-TypeScript-4A4AFF?style=flat&logo=typescript&logoColor=white)  
-![Cisco Packet Tracer] (https://img.shields.io/badge/-Cisco%20Packet%20Tracer-B6D145?style=flat&logo=cisco&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-B6D145?style=flat&logo=cisco&logoColor=white)
 
 ---
 
