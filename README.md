@@ -12,13 +12,13 @@ I also do Network Engineering and Cyber Security stuff.
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmxrWasHere0&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=EmxrWasHere0&show_icons=true&theme=radical)  
 
 ### 🏆 GitHub Trophy  
 [![trophy](https://github-profile-trophy.vercel.app/?username=EmxrWasHere0&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📝 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmxrWasHere0&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EmxrWasHere0&layout=compact&theme=radical)  
 
 ### 📈 Coding Activity  
 ![GitHub Streak](https://streak-stats.demolab.com?user=EmxrWasHere0&theme=radical)
