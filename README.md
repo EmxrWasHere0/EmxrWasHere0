@@ -1,6 +1,6 @@
 ### `$ whoami`
 
-## Hi there, I'm Emir! 👋
+## Hi there, I'm EmxrDev! 👋
 
 I'm a software developer passionate about Python, C languages and TypeScript.
 I also do Network Engineering and Cyber Security stuff.
