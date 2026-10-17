@@ -19,7 +19,7 @@ I also do Network Engineering, Cyber Security, and Machine Learning stuff.
 ### 📝 Top Languages
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EmxrWasHere0&layout=donut&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=EmxrWasHere0&layout=donut&langs_count=4&theme=dark_github)
 
-### 📬 Currently Working ON
+### 📬 Currently Working On
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=EmxrWasHere0&repo=EmxrWasHere0%2Fveyra&show_owner=true&theme=dark_github_repocard)](https://github.com/EmxrWasHere0/veyra)
 
 ### 📈 Coding Activity  
