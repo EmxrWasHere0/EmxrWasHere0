@@ -11,13 +11,16 @@ I also do Network Engineering, Cyber Security, and Machine Learning stuff.
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=EmxrWasHere0&show_icons=true&theme=radical)  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EmxrWasHere0&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=EmxrWasHere0&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)
 
 ### 🏆 GitHub Trophy  
 ![trophy](https://github-trophies.vercel.app/?username=EmxrWasHere0)
 
 ### 📝 Top Languages
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EmxrWasHere0&layout=compact&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EmxrWasHere0&layout=donut&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=EmxrWasHere0&layout=donut&langs_count=4&theme=dark_github)
+
+### 📬 Currently Working ON
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=EmxrWasHere0&repo=EmxrWasHere0%2Fveyra&show_owner=true&theme=dark_github_repocard)](https://github.com/EmxrWasHere0/veyra)
 
 ### 📈 Coding Activity  
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=EmxrWasHere0&theme=radical) 
