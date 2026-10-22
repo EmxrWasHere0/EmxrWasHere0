@@ -23,7 +23,7 @@ I also do Network Engineering, Cyber Security, and Machine Learning stuff.
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=EmxrWasHere0&repo=EmxrWasHere0%2Fveyra&show_owner=true&theme=dark_github_repocard)](https://github.com/EmxrWasHere0/veyra)
 
 ### 📈 Coding Activity  
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=EmxrWasHere0&theme=radical) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=5ab35d50-bfbe-4dfd-bd04-e38f7fc98686&layout=compact&langs_count=6&theme=dark_github)](https://wakatime.com/@5ab35d50-bfbe-4dfd-bd04-e38f7fc98686)
 
 ---
 
